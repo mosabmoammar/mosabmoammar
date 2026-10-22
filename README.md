@@ -116,13 +116,13 @@ I apply signal processing and machine learning to phonocardiogram (PCG), ECG and
 
 ## Certifications
 
-- Meta Android Developer
-- Exercising Leadership (HarvardX)
-- Scrum Fundamentals Certified (SFC)
-- Algorithmic Toolbox (UC San Diego)
-- AI Applications and Prompt Engineering (edX)
-- Complete Flutter Guide
-- Google Cloud certificates for Flutter projects
+- [Meta Android Developer](https://www.coursera.org/account/accomplishments/professional-cert/DES2UPTEB6G6) (Coursera)
+- [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/FW34BB4YM0Q9) (UC San Diego)
+- [Complete Flutter Guide](https://www.udemy.com/certificate/UC-91809d70-d445-40cc-abaf-5a86ca5c54b2/) (Udemy)
+- [Flutter Startup Namer](https://www.coursera.org/account/accomplishments/verify/R8C4RZY9HN2A) and [Material Components for Flutter Basics](https://www.coursera.org/account/accomplishments/verify/NT6SSPGM3JT7) (Google Cloud)
+- [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1024025) (SCRUMstudy)
+- [Exercising Leadership: Foundational Principles](https://courses.edx.org/certificates/c3b9a7343542459489ea18334d0c7ec8) (HarvardX)
+- [AI Applications and Prompt Engineering](https://courses.edx.org/certificates/a63aac90b714421da309557725c660ae) (edX)
 
 ## Contact
 
